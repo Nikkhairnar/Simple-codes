@@ -1,0 +1,9 @@
+def sqrnum(n):
+    sqr = n ** 2  # Square the number (n^2)
+    return sqr
+
+x = sqrnum(2)
+print(x)
+
+# Output
+4
