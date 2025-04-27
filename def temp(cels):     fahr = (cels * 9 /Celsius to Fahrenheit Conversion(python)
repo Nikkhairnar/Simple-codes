@@ -1,9 +1,0 @@
-def temp(cels):
-    fahr = (cels * 9 / 5) + 32  # Convert Celsius to Fahrenheit
-    return fahr
-
-x = temp(5)
-print(x)
-
-# Output
-41.0
